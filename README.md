@@ -1,2 +1,2 @@
 # Demo-repository
-Author Kishre
+Author Kishore
